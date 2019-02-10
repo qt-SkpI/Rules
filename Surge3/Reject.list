@@ -35,11 +35,11 @@ DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,googleadservices.com
 DOMAIN-SUFFIX,doubleclick.com
 DOMAIN-KEYWORD,adservice.google
-DOMAIN-SUFFIX,adform.net,REJECT
+DOMAIN-SUFFIX,adform.net
 DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,doubleclick.net
 DOMAIN,ad.doubleclick.net
-DOMAIN,ads.mopub.com,REJECT
+DOMAIN,ads.mopub.com
 DOMAIN-SUFFIX,cnzz.com
 DOMAIN,c4.gostats.cn
 DOMAIN,ads.14tv.com
