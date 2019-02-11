@@ -54,7 +54,7 @@ DOMAIN,ppv.dnwyb.tv
 DOMAIN,ppt.dnvod.tv
 DOMAIN,ppv.dnvod.tv
 DOMAIN,ppt.dnvod.io
-DOMAIN,s1-a4,dnvod.tv
+DOMAIN,s1-a4.dnvod.tv
 //Olevod
 URL-REGEX,^http:\/\/olevod\.eu\/template\/olevod_m\/ads*
 URL-REGEX,^http:\/\/olevod\.com\/template\/olevod_m\/ads*
