@@ -33,6 +33,8 @@ DOMAIN-SUFFIX,iqiyipic.com
 DOMAIN-SUFFIX,api.mob.app.letv.com
 
 // MOO
+USER-AGENT,MOO%E9%9F%B3%E4%B9%90*
+USER-AGENT,MOO音乐*
 USER-AGENT,MOO*
 USER-AGENT,TencentMidasConnect*
 
