@@ -127,7 +127,7 @@ DOMAIN,music.tc.qq.com
 DOMAIN,dp3.qq.com
 DOMAIN,ios.rqd.qq.com
 DOMAIN,pingfore.qq.com
-DOMAIN,y.qq.com
+DOMAIN-SUFFIX,y.qq.com
 DOMAIN-SUFFIX,dldir1.qq.com
 DOMAIN-SUFFIX,music.qq.com
 USER-AGENT,QQMusic*
