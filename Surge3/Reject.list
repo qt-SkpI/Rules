@@ -48,6 +48,9 @@ URL-REGEX,^http:\/\/api\.skyrj\.com\/Images\/tbkad\.gif*
 URL-REGEX,^https:\/\/www\.google\.com\/ads*
 URL-REGEX,^https:\/\/www\.google\.it\/ads*
 //Dnvod
+DOMAIN,ppt.ifun.tv
+DOMAIN,ppv.ifun.tv
+DOMAIN,s1-a4,ifun.tv
 DOMAIN,ppt.dnwyb.tv
 DOMAIN,ppv.dnwyb.tv
 DOMAIN,ppt.dnvod.tv
