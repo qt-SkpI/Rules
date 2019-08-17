@@ -1,6 +1,4 @@
-# > nfmovies
-DOMAIN,g.shumafen.cn
-DOMAIN-SUFFIX,yun.ftn.qq.com
+
 # > bilibili
 USER-AGENT,bili-universal
 USER-AGENT,Bilibili*
