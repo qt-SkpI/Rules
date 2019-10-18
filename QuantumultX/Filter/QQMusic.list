@@ -1,0 +1,6 @@
+# > QQMusic
+USER-AGENT,QQ%e9%9f%b3%e4%b9%90*,QQMusic
+USER-AGENT,QQMusic*,QQMusic
+HOST-SUFFIX,*music.qq.com,QQMusic
+HOST-SUFFIX,y.qq.com,QQMusic
+HOST,aqqmusic.tc.qq.com,QQMusic
