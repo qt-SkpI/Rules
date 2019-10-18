@@ -1,0 +1,5 @@
+# > Kugou & Kuwo
+HOST-SUFFIX,kugou.com,KuMusic
+USER-AGENT,%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90*,KuMusic
+HOST-SUFFIX,kuwo.cn,KuMusic
+HOST-SUFFIX,koowo.com,KuMusic
