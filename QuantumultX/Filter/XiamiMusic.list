@@ -1,0 +1,4 @@
+# > Xiami Music
+USER-AGENT,xiami*,XiamiMusic
+HOST-SUFFIX,xiami.com,XiamiMusic
+HOST-SUFFIX,xiami.net,XiamiMusic
