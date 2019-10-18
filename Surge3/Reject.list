@@ -6,7 +6,8 @@ URL-REGEX,^https:\/\/www\.google\.it\/ads*
 //Dnvod
 DOMAIN,ppt.ifun.tv
 DOMAIN,ppv.ifun.tv
-DOMAIN,s1-a4,ifun.tv
+DOMAIN,s1-a4.ifun.tv
+DOMAIN,s1-a1.dnvodcdn.me
 //Olevod
 URL-REGEX,^http:\/\/olevod\.eu\/template\/olevod_m\/ads*
 URL-REGEX,^http:\/\/olevod\.com\/template\/olevod_m\/ads*
