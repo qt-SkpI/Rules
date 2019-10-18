@@ -1,0 +1,6 @@
+# > Tencent Video
+USER-AGENT,live4iphone*,TencentVideo
+USER-AGENT,qqlive4iphone*,TencentVideo
+USER-AGENT,TencentMidasConnect*,TencentVideo
+HOST-SUFFIX,v.qq.com,TencentVideo
+HOST-SUFFIX,video.qq.com,TencemtVideo
