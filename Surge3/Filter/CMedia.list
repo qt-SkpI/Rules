@@ -40,6 +40,7 @@ HOST-SUFFIX,hunantv.com
 HOST-SUFFIX,mgtv.com
 
 # > Migu
+USER-AGNET,MGMobileMusic*
 USER-AGENT,MiguVideo*
 USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91
 HOST-SUFFIX,cmvideo.cn
