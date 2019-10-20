@@ -1,4 +1,4 @@
-# > Bilibili
+
 USER-AGENT,*bili*
 HOST-KEYWORD,bilibili
 HOST-SUFFIX,acgvideo.com
