@@ -1,5 +1,5 @@
 # > Bilibili
 USER-AGENT,*bili*
-HOST-KEYWORD,bilibili
-HOST-SUFFIX,acgvideo.com
-HOST-SUFFIX,hdslb.com
+DOMAIN-KEYWORD,bilibili
+DOMAIN-SUFFIX,acgvideo.com
+DOMAIN-SUFFIX,hdslb.com
