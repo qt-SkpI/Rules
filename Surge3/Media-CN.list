@@ -78,6 +78,7 @@ DOMAIN-SUFFIX,acfun.com
 DOMAIN-SUFFIX,acfun.com
 DOMAIN-SUFFIX,aixifan.com
 //Migu
+USER-AGENT,MGMobileMusic*
 USER-AGENT,MiguVideo*
 USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91
 DOMAIN-SUFFIX,cmvideo.cn
