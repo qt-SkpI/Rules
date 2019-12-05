@@ -63,14 +63,14 @@ DOMAIN-SUFFIX,*music.qq.com
 DOMAIN-SUFFIX,y.qq.com
 DOMAIN,aqqmusic.tc.qq.com
 
-//Tencent Video
+//TencentVideo
 USER-AGENT,live4iphone*
 USER-AGENT,qqlive4iphone*
 USER-AGENT,TencentMidasConnect*
 DOMAIN-SUFFIX,v.qq.com
 DOMAIN-SUFFIX,video.qq.com
 
-//Xiami Music
+//XiamiMusic
 USER-AGENT,xiami*
 DOMAIN-SUFFIX,xiami.com
 DOMAIN-SUFFIX,xiami.net
