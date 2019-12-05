@@ -1,4 +1,4 @@
-# > Bilibili
+//Bilibili
 USER-AGENT,*bili*
 DOMAIN-KEYWORD,bilibili
 DOMAIN-SUFFIX,acgvideo.com
