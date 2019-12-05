@@ -26,3 +26,10 @@ DOMAIN-SUFFIX,kugou.com
 USER-AGENT,%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90*
 DOMAIN-SUFFIX,kuwo.cn
 DOMAIN-SUFFIX,koowo.com
+//Letv
+DOMAIN-SUFFIX,api.mob.app.letv.com
+DOMAIN-SUFFIX,letv.com
+//MGTV
+USER-AGENT,MGTV*
+DOMAIN-SUFFIX,hunantv.com
+DOMAIN-SUFFIX,mgtv.com
