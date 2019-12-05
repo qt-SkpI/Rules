@@ -50,6 +50,6 @@ DOMAIN-SUFFIX,music.163.com
 //QQMusic
 USER-AGENT,QQ%e9%9f%b3%e4%b9%90*
 USER-AGENT,QQMusic*
-DOMAIN-SUFFIX,*music.qq.com
+DOMAIN-SUFFIX,music.qq.com
 DOMAIN-SUFFIX,y.qq.com
 DOMAIN,aqqmusic.tc.qq.com
