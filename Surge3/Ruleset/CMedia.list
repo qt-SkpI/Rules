@@ -30,6 +30,7 @@ DOMAIN-SUFFIX,kowoo.com
 DOMAIN-SUFFIX,letv.com
 # MGTV
 USER-AGENT,MGTV*
+DOMAIN-SUFFIX,hitv.com
 DOMAIN-SUFFIX,hunantv.com
 DOMAIN-SUFFIX,mgtv.com
 # Migu
