@@ -33,6 +33,7 @@ HOST-SUFFIX,letv.com,CMedia
 
 # > MGTV
 USER-AGENT,MGTV*,CMedia
+HOST-SUFFIX,hitv.com,CMedia
 HOST-SUFFIX,hunantv.com,CMedia
 HOST-SUFFIX,mgtv.com,CMedia
 
