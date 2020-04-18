@@ -1,5 +1,6 @@
 # Bilibili
 USER-AGENT,*bili*
 DOMAIN-KEYWORD,bilibili
+DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,acgvideo.com
 DOMAIN-SUFFIX,hdslb.com
