@@ -1,5 +1,6 @@
 # > Bilibili
 USER-AGENT,*bili*,Bilibili
 HOST-KEYWORD,bilibili,Bilibili
+HOST-SUFFIX,bilibili.com,Bilibili
 HOST-SUFFIX,acgvideo.com,Bilibili
 HOST-SUFFIX,hdslb.com,Bilibili
