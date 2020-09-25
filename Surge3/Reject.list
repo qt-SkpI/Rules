@@ -16,3 +16,8 @@ URL-REGEX,^http:\/\/olevod\.com\/template\/olevod_pc\/ads*
 DOMAIN,t.lkqd.net
 DOMAIN,v.lkqd.net
 DOMAIN,ad.lkqd.net
+DOMAIN,ads.vidoomy.com
+DOMAIN-SUFFIX,acloudimages.com
+DOMAIN,s-img.mgid.com
+DOMAIN,offerimage.com
+DOMAIN,noviceexplanationteapot.com
