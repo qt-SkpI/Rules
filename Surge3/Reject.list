@@ -4,9 +4,9 @@ URL-REGEX,^http:\/\/api\.skyrj\.com\/Images\/tbkad\.gif*
 URL-REGEX,^https:\/\/www\.google\.com\/ads*
 URL-REGEX,^https:\/\/www\.google\.it\/ads*
 # ifvod tv
-DOMAIN,ppt.ifvod.tv
-DOMAIN,ppv.ifvod.tv
-DOMAIN,s1-a4.ifvod.tv
+DOMAIN,ppt.flyv.tv
+DOMAIN,ppv.flyv.tv
+DOMAIN,s1-a4.flyv.tv
 DOMAIN,s1-a1.dnvodcdn.me
 # Olevod
 URL-REGEX,^http:\/\/olevod\.eu\/template\/olevod_m\/ads*
